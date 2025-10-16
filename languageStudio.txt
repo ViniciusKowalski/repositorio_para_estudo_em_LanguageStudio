@@ -10,7 +10,7 @@ Exemplo:
 
 Quando utilizamos a ferramenta do Language Studio, ela nos ajuda a dar uma classificação sobre aquele texto com base na compreensão do idioma e na classificação 
 personalizada. Então através disso podemos criar recursos, onde podemos ter diversos cenários e metrificar isso. 
-Entender se o cliente de determinada empresa, está satisfeito com o serviço prestado. 
+Entender se o cliente de determinada empresa, está satisfeito com o serviço prestado.
 
     **Análise de Sentimentos**
 
