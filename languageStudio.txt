@@ -1,4 +1,17 @@
-Material para estudo sobre a ferramenta de Language Studio
+O propósito do Language studio, é ter um conjunto de ferramenta baseada na interface de usuário. Nos permitindo que explore, 
+integre, crie recursos de linguagem através de uma plataforma que nos traga ideias sobre o que estamos escrevendo
 
+Exemplo: 
+ Passei férias maravilhosas em Orlando. 
+    Idioma predominante = Português
+    Sentimento = 0,88(Positivo)
+    Frase chave = "férias maravilhosas"
+    Entidades(Localidade) = Orlando
 
+Quando utilizamos a ferramenta do Language Studio, ela nos ajuda a dar uma classificação sobre aquele texto com base na compreensão do idioma e na classificação 
+personalizada. Então através disso podemos criar recursos, onde podemos ter diversos cenários e metrificar isso. 
+Entender se o cliente de determinada empresa, está satisfeito com o serviço prestado. 
 
+    **Análise de Sentimentos**
+
+Podemos fazer uma análise de uma frase ou até mesmo de um texto para extrair  
